@@ -1,0 +1,12 @@
+{
+  "name": "state-primitive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.3"
+  }
+}
